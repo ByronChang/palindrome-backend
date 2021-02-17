@@ -1,0 +1,4 @@
+# .env.dist
+PORT=3000
+PORTCLIENT=8081
+ROOT=http://localhost:
